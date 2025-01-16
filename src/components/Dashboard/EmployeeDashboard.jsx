@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from 'react'; // Combine all imports of React
-import Header from '../other/header';
+import Header from '../other/Header'; // Import Header component from other/Header.jsx
 import TaskListNumbers from '../other/TaskListNumbers';
 import TaskList from '../TaskList/TaskList';
 import { AuthContext } from '../../context/AuthProvider';
